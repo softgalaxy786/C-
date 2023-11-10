@@ -1,5 +1,6 @@
 /*
 	This program finds the factorial for a given number of any size.
+ 	Note: double type variables only used to get the max available bytes allocation size for variables on varying platforms.
 */
 
 #include<bits/stdc++.h>
